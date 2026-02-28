@@ -1,0 +1,15 @@
+# NX 报价助手依赖项
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# NXOpen 辅助库（可选）
+# nxopentse>=1.0.0
+
+# 命令行界面
+click>=8.0.0
+
+# 配置管理
+pyyaml>=6.0
