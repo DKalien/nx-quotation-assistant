@@ -1,6 +1,12 @@
 # NX 报价助手
 
+![GitHub](https://img.shields.io/github/license/DKalien/nx-quotation-assistant)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![NX](https://img.shields.io/badge/Siemens-NX%2FUG-green.svg)
+
 一个基于 Python 的工具，用于从 Siemens NX/UG 提取 3D 模型参数，辅助报价准备工作。
+
+🔗 **GitHub 仓库**: https://github.com/DKalien/nx-quotation-assistant
 
 ## 功能特性
 
